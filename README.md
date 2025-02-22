@@ -1,6 +1,6 @@
 # memo_mate
 
-A new Flutter project.
+Note app using flutter and MVVM Architcture
 
 ## Getting Started
 
